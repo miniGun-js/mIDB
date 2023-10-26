@@ -1,4 +1,4 @@
-const IDB2 = (function() {
+const mIDB = (function() {
     const 
     DB = {},
     ReadWrite = 'readwrite',
